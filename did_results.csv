@@ -1,0 +1,6 @@
+spec,outcome,coef,se,ci_low,ci_high,p_value,n_obs,n_clusters
+Main: poverty (households with children),poor_post,-0.03277,0.00774,-0.04793,-0.0176,2e-05,32806,120
+Equivalised income (EUR),eq_income,476.64886,168.16294,147.03887,806.25885,0.00459,32806,120
+Log equivalised income,log_income,0.03767,0.00784,0.0223,0.05305,0.0,32806,120
+Placebo: households without children,poor_post,-0.00108,0.00776,-0.01629,0.01412,0.88887,22843,120
+Balanced panel only,poor_post,-0.0329,0.00793,-0.04844,-0.01736,3e-05,30140,120
